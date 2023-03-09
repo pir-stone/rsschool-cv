@@ -1,5 +1,5 @@
 # Petr Lugovskoy
-___
+_______
 
 ### My Contact Info:
 
@@ -9,12 +9,12 @@ ___
 + GitHub: pir-stone
 + Telegram @Petr_Lugovskoy
 + Discord: P-stone#1419
-___
+_______
 
 ### About myself
 I'm 34 years old. I'v been studied radio physics & electronics. During my life a used several programming languages to make easyer tasks and deals. They are: pascal, Delphy, Java, HTML. But i have not practiced it for a long time and decided to reload my knowledges.
 
-___
+_______
 
 ### My skils
 + HTML
@@ -23,7 +23,7 @@ ___
 + GitHub
 + Delphy, pascal
 
-___
+_______
 
 ### Code
 ```
@@ -43,14 +43,14 @@ ___
                          end;
 ```
 
-___
+_______
 
 ### Education
 + Saratov State University
   + Nonlinar processes faculty
 + Private courses of Java core
 
-___
+_______
 
 ### Languages
 + Russian - nativ
