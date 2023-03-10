@@ -1,1 +1,1 @@
-https://pir-stone.github.io/rsschool-cv/cv
+https://pir-stone.github.io/rsschool-cv/
