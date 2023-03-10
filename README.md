@@ -1,2 +1,1 @@
-# rsschool-cv
-RS-School repository
+https://pir-stone.github.io/rsschool-cv/
